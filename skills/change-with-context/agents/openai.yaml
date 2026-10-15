@@ -1,0 +1,3 @@
+interface:
+  display_name: "关联代码修改"
+  short_description: "仅处理跨模块或共享契约修改，识别影响并校验构建、类型与改动范围"

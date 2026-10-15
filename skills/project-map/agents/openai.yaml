@@ -1,0 +1,3 @@
+interface:
+  display_name: "项目关系地图"
+  short_description: "分析模块、文件与接口契约关系，生成层级对齐、带源码证据的离线交互地图"
